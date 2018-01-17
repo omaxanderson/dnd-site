@@ -1,0 +1,6 @@
+Each user can have a list of their campaigns, click on one and it brings you
+to that campaign's "timeline". On this timeline, you can essentially just post
+things like session summaries, diary entries, notes, maps, anything of interest.
+It will show who posted, when, and maybe color coded?
+
+Campaign
